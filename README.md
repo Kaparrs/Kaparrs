@@ -6,9 +6,9 @@ https://discord.gg/SKdkk7rR3B
 
 ## Skills:
 ### Languages
-Lua, JavaScript, TypeScript, C++ (learning)
+Lua, JS, TS, C++, C#
 ### Technologies
-React, SocketIO, NodeJS
+React, SocketIO
 
 # Statistics
 <img align = 'left' src="https://github-readme-stats.vercel.app/api/wakatime?username=Jajar&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
